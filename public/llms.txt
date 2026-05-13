@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-7adc0d32.zappy5.app
+https://example.com
 גרינברג אולפינר ושות&#39; — משרד שמאות מקרקעין ותיק ומוביל. הערכות שווי מדויקות לנכסים, משכנתאות ועסקאות נדל&quot;ן. שמאים מוסמכים עם ניסיון עשיר לצדך.
 
 ### שירותים
-https://-7adc0d32.zappy5.app/services
+https://example.com/services
 הערכת שווי נכס למכירה, שמאות למשכנתא, חוות דעת לבית משפט ועוד. גלה את מגוון שירותי שמאות המקרקעין המקצועיים שלנו ומצא את הפתרון המדויק לצרכיך.
 
 ### מרכז ידע
-https://-7adc0d32.zappy5.app/knowledge-center
+https://example.com/knowledge-center
 מרכז הידע של גרינברג אולפינר ושות&#39; — מדריכים, מאמרים מקצועיים וטיפים חשובים בנושא שמאות מקרקעין. הכירו את עולם הנדל&quot;ן לעומק לפני שמקבלים החלטה.
 
 ### אודות
-https://-7adc0d32.zappy5.app/about
+https://example.com/about
 היכר את הצוות המקצועי מאחורי גרינברג אולפינר ושות&#39; — שמאי מקרקעין מוסמכים עם שנות ניסיון, מחויבות לדיוק ומוניטין מוכח בשוק הנדל&quot;ן הישראלי.
 
 ### צור קשר
-https://-7adc0d32.zappy5.app/contact
+https://example.com/contact
 רוצה לדעת כמה שווה הנכס שלך? צור קשר עם שמאי המקרקעין המוסמכים של גרינברג אולפינר ושות&#39; עוד היום ותקבל מענה מהיר, מקצועי ואמין לכל שאלה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-7adc0d32.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-7adc0d32.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-7adc0d32.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-7adc0d32.zappy5.app/contact
-- Endpoint: https://-7adc0d32.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ A veteran real estate appraisal office with an existing website at shamaot.com t
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-7adc0d32.zappy5.app/sitemap.xml
-- Robots: https://-7adc0d32.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-7adc0d32.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

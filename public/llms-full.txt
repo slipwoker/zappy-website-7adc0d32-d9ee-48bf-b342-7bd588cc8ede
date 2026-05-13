@@ -2,13 +2,13 @@
 
 A veteran real estate appraisal office with an existing website at shamaot.com that needs to be redesigned. The current site is built on an outdated WordPress version and does not comply with Israeli accessibility laws. The client wants to preserve the existing content and transform it into a modern, accessible, and legally compliant website with a fresh and updated design.
 
-Source: https://-7adc0d32.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שמאי המקרקעין שלך להחלטות נכונות — גרינברג אולפינר ושות&#39; שמאות מקרקעין
 
-URL: https://-7adc0d32.zappy5.app
+URL: https://example.com
 Description: גרינברג אולפינר ושות&#39; — משרד שמאות מקרקעין ותיק ומוביל. הערכות שווי מדויקות לנכסים, משכנתאות ועסקאות נדל&quot;ן. שמאים מוסמכים עם ניסיון עשיר לצדך.
 
 שמאי המקרקעין שלך להחלטות נכונות — גרינברג אולפינר ושות' שמאות מקרקעין
@@ -554,7 +554,7 @@ Description: גרינברג אולפינר ושות&#39; — משרד שמאות
 
 ## כל שירותי השמאות שתצטרך במקום אחד — גרינברג אולפינר ושות&#39; שמאות מקרקעין
 
-URL: https://-7adc0d32.zappy5.app/services
+URL: https://example.com/services
 Description: הערכת שווי נכס למכירה, שמאות למשכנתא, חוות דעת לבית משפט ועוד. גלה את מגוון שירותי שמאות המקרקעין המקצועיים שלנו ומצא את הפתרון המדויק לצרכיך.
 
 כל שירותי השמאות שתצטרך במקום אחד — גרינברג אולפינר ושות' שמאות מקרקעין
@@ -1230,7 +1230,7 @@ Description: הערכת שווי נכס למכירה, שמאות למשכנתא,
 
 ## כל מה שרצית לדעת על שמאות — גרינברג אולפינר ושות&#39; שמאות מקרקעין
 
-URL: https://-7adc0d32.zappy5.app/knowledge-center
+URL: https://example.com/knowledge-center
 Description: מרכז הידע של גרינברג אולפינר ושות&#39; — מדריכים, מאמרים מקצועיים וטיפים חשובים בנושא שמאות מקרקעין. הכירו את עולם הנדל&quot;ן לעומק לפני שמקבלים החלטה.
 
 כל מה שרצית לדעת על שמאות — גרינברג אולפינר ושות' שמאות מקרקעין
@@ -1838,7 +1838,7 @@ Description: מרכז הידע של גרינברג אולפינר ושות&#39; 
 
 ## הניסיון שעושה את ההבדל בשמאות — גרינברג אולפינר ושות&#39; שמאות מקרקעין
 
-URL: https://-7adc0d32.zappy5.app/about
+URL: https://example.com/about
 Description: היכר את הצוות המקצועי מאחורי גרינברג אולפינר ושות&#39; — שמאי מקרקעין מוסמכים עם שנות ניסיון, מחויבות לדיוק ומוניטין מוכח בשוק הנדל&quot;ן הישראלי.
 
 הניסיון שעושה את ההבדל בשמאות — גרינברג אולפינר ושות' שמאות מקרקעין
@@ -2327,7 +2327,7 @@ Description: היכר את הצוות המקצועי מאחורי גרינברג
 
 ## קבל הערכת שווי מקצועית — צור קשר עכשיו — גרינברג אולפינר ושות&#39; שמאות מקרקעין
 
-URL: https://-7adc0d32.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצה לדעת כמה שווה הנכס שלך? צור קשר עם שמאי המקרקעין המוסמכים של גרינברג אולפינר ושות&#39; עוד היום ותקבל מענה מהיר, מקצועי ואמין לכל שאלה.
 
 קבל הערכת שווי מקצועית — צור קשר עכשיו — גרינברג אולפינר ושות' שמאות מקרקעין
@@ -2746,7 +2746,7 @@ Description: רוצה לדעת כמה שווה הנכס שלך? צור קשר ע
 
 ## מדיניות פרטיות
 
-URL: https://-7adc0d32.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3011,7 +3011,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-7adc0d32.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3285,7 +3285,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-7adc0d32.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
