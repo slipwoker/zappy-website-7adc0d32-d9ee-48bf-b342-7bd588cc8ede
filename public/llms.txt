@@ -1,0 +1,82 @@
+# גרינברג אולפינר ושות' שמאות מקרקעין — Generative Engine Optimization Map
+
+> A veteran real estate appraisal office with an existing website at shamaot.com that needs to be redesigned. The current site is built on an outdated WordPress version and does not comply with Israeli accessibility laws. The client wants to preserve the existing content and transform it into a modern, accessible, and legally compliant website with a fresh and updated design.
+
+---
+
+## Pages
+
+### בית
+https://-7adc0d32.zappy5.app
+גרינברג אולפינר ושות&#39; — משרד שמאות מקרקעין ותיק ומוביל. הערכות שווי מדויקות לנכסים, משכנתאות ועסקאות נדל&quot;ן. שמאים מוסמכים עם ניסיון עשיר לצדך.
+
+### שירותים
+https://-7adc0d32.zappy5.app/services
+הערכת שווי נכס למכירה, שמאות למשכנתא, חוות דעת לבית משפט ועוד. גלה את מגוון שירותי שמאות המקרקעין המקצועיים שלנו ומצא את הפתרון המדויק לצרכיך.
+
+### מרכז ידע
+https://-7adc0d32.zappy5.app/knowledge-center
+מרכז הידע של גרינברג אולפינר ושות&#39; — מדריכים, מאמרים מקצועיים וטיפים חשובים בנושא שמאות מקרקעין. הכירו את עולם הנדל&quot;ן לעומק לפני שמקבלים החלטה.
+
+### אודות
+https://-7adc0d32.zappy5.app/about
+היכר את הצוות המקצועי מאחורי גרינברג אולפינר ושות&#39; — שמאי מקרקעין מוסמכים עם שנות ניסיון, מחויבות לדיוק ומוניטין מוכח בשוק הנדל&quot;ן הישראלי.
+
+### צור קשר
+https://-7adc0d32.zappy5.app/contact
+רוצה לדעת כמה שווה הנכס שלך? צור קשר עם שמאי המקרקעין המוסמכים של גרינברג אולפינר ושות&#39; עוד היום ותקבל מענה מהיר, מקצועי ואמין לכל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7adc0d32.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7adc0d32.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7adc0d32.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-7adc0d32.zappy5.app/contact
+- Endpoint: https://-7adc0d32.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גרינברג אולפינר ושות' שמאות מקרקעין
+A veteran real estate appraisal office with an existing website at shamaot.com that needs to be redesigned. The current site is built on an outdated WordPress version and does not comply with Israeli accessibility laws. The client wants to preserve the existing content and transform it into a modern, accessible, and legally compliant website with a fresh and updated design.
+
+## Target Audience
+- משקיעי נדל"ן
+- סוכני נדל"ן
+- בעלי נכסים מחפשים הערכה
+
+## Industry
+שמאות מקרקעין
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7adc0d32.zappy5.app/sitemap.xml
+- Robots: https://-7adc0d32.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7adc0d32.zappy5.app/llms-full.txt
